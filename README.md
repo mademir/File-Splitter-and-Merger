@@ -6,7 +6,7 @@ Generally used to reduce the size of big files.
 
 ## How To Use
 Splitting:  
-- (Optional, Recommended) Compress the files or the folder into a zip file (or any other compressed file) (this helps reducing the overall size and can be used to turn a folder or multiple files into a single file)  
+- (Optional, Recommended) Compress the file(s) or the folder(s) into a zip file (or any other compressed file) (this helps reducing the overall size and can be used to turn a folder or multiple files into a single file)  
 - Run the Splitter while the file you would like to split attached (can be easily done by dragging and dropping the file onto the .exe or .py files), or you can run the program without attaching a file and typing the file name when prompted.
 This will create the splitted files with a prefix in their names (splitted binary files might seem corrupted, this is normal).  
 - (Optional) Repeat the last step with the splitted files with the prefix to achieve smaller files. (You can remove each main file after you split them. Or they will be remved once merged anyway.)
